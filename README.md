@@ -11,3 +11,6 @@ Contest Rules
 Each student has to predict if the patient has prostate cancer, realising one or more prediction model using data analysis and Machine Learning techniques. The performance measure to maximise is Accuracy. It is mandatory for the student who will achieve the best performance on the test dataset, to discuss the process steps followed in order to reach the development of the final model. The winning student presentation will be held during the lesson of November the 19th.
 If the presentation and the proposed solution will be judged positively, the author will be relieved from the final contest.
 Each participant is free to use external tools (i.e. Weka, Knime, MatLab, etc.).
+
+
+https://www.kaggle.com/c/unina-machine-learning-2122-minicontest-n1/overview
